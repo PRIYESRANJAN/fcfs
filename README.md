@@ -96,6 +96,8 @@ Average Turnaround Time = (4 + 6 + 7 + 7) / 4 = 6
 # Programs
 ------------------------------------
 
+
+
 #include<stdio.h>
 int main()
 {
@@ -137,6 +139,5 @@ int main()
 } 
     printf("\nAverage TurnaroundTime:%f\n",totaltat/n);
     printf("\nAverage Waiting Time:%f",totalwt/n);
- 
     return 0;
 }
